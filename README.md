@@ -13,4 +13,6 @@ DMART WANT TO CREATE A SALES DASHBOARD SO THAT THEY CAN UNDERSTAND THEIR CUSTOME
 - calculate the segment wise sales.
 
 
-- Dashboard Interaction <a href="
+- Dashboard Interaction <a href="https://github.com/Monoj123991/DATA-ANALYSIS-PROJECT-3/blob/main/Screenshot%202025-05-25%20004627.png">View Dashboard<a/>
+
+
