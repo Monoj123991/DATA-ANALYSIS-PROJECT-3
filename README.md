@@ -22,3 +22,6 @@ DMART WANT TO CREATE A SALES DASHBOARD SO THAT THEY CAN UNDERSTAND THEIR CUSTOME
 - Make all pivot table into dashboard and apply slicer to make dynamic.
 
 ## DASHBOARD
+![Screenshot 2025-05-25 004627](https://github.com/user-attachments/assets/3b64ef80-d7a8-4f00-b0a1-d28ddf694346)
+
+## Project Insight
